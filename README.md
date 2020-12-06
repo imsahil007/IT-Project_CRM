@@ -50,7 +50,7 @@ Password: Test@1234
 
 # Screenshots:
 
-![Admin dasboard](./screenshots/admin.jpg)
+![Admin dasboard](/screenshots/admin.jpg)
 ![Dasboard](/screenshots/dashboard.jpg)
 ![Manage Users](/screenshots/users.jpg)
 ![Request Ticket](/screenshots/request.jpg)
