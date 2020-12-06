@@ -8,17 +8,18 @@ This particular CRM helps to manage customers who want to avail web-development 
 
 # Installation Steps:
 
-1. Download the zip and extract it to xampp/www/crm  
+1. Download the zip and extract it to (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 You can also clone the repo in xampp/www and then rename the directory to crm
-2. Create Database named <b>crm</b> and import crm.sql from the root directory of the project
-3. Run wamp server
+2. Open PHPMyAdmin (http://localhost/phpmyadmin)
+3. Create Database named <b>crm</b> and import sql/crm.sql from the root directory of the project
+4. Run wamp server
 
 # Links:
 
 CRM User Page: http://localhost/crm/  
 Admin Page: http://localhost/crm/admin/
 
-> Note: Both urls are different as both pages contains complete differnet functionality. So, it doesn't make sense to make a single link for login
+> Note: Both urls are different as both pages contains complete different functionality. So, it doesn't make sense to make a single link for login
 
 # Login Details:
 
